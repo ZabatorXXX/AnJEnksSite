@@ -1,6 +1,6 @@
 webPoject:
   hosts:
-    159.65.31.245
+    138.68.162.113
   vars:
     domain: html
     ansible_user: root
