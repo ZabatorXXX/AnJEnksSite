@@ -1,0 +1,8 @@
+webPoject:
+  hosts:
+    138.68.129.223
+  vars:
+    domain: html
+    ansible_user: root
+    ansible_connection: ssh
+    ansible_ssh_private_key_file: ~/.ssh/id_rsa
