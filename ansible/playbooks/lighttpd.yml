@@ -1,4 +1,4 @@
-- hosts: webserver
+- hosts: webPoject
   become: yes
   tasks:
 
