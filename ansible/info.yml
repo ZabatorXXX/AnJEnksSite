@@ -2,7 +2,7 @@ webPoject:
   hosts:
     138.68.162.113
   vars:
-    domain: html
+    web_user: www-data
+    web_group: www-data
     ansible_user: root
-    ansible_connection: ssh
     ansible_ssh_private_key_file: ~/.ssh/id_rsa
